@@ -1,1 +1,11 @@
+# Passive RGB-Based Vehicle Orientation Estimation for Autonomous Systems
 
+This repository holds the dataset and ocde used for analysis in the project titled "Passive RGB-Based Vehicle Orientation Estimation for Autonomous Systems"
+
+## Dataset
+
+The attached dataset contains over 5,000 images with corresponding magnetometer information.
+
+## Code
+
+The attached code contains methods used to develop both the Pure Object Detector approach and Cascaded Approach.
